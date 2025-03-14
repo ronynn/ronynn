@@ -11,9 +11,9 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronynn&lay
 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Picking the best design system for my apps](http://ronynn.github.io/blog/blog/design-system-javascript/)
-- [A big limitation in understanding data sets is that we think with the hypothesis first](http://ronynn.github.io/blog/blog/hypothesis-first/)
-- [Moving my blog away from wordpress.com](http://ronynn.github.io/blog/blog/moving-my-blog-away-from-wordpress/)
-- [Time organisation for studying](http://ronynn.github.io/blog/blog/time-management-when-learning/)
-- [The Doomsday Programmer](http://ronynn.github.io/blog/blog/doomsday-programmer/)
+- [How pomodoro changed my life](https://ronynn.github.io/blog/writing/game%20development/2024/11/05/how-pomodoro-changed-my-life.html)
+- [Organising life like I organise my bashrc file](https://ronynn.github.io/blog/design/philosophy/2024/10/26/organising-life-like-the-terminal.html)
+- [Critique to my struggles using nim-to-js for a web project](https://ronynn.github.io/blog/writing/game%20development/2024/10/15/critique-to-my-struggles-using-nim-to-js.html)
+- [Correlating drinking water to increase in productivity](https://ronynn.github.io/blog/writing/game%20development/2024/10/05/correlating-drinking-water-to-increased-productivity.html)
+- [Best practices for collaborative storytelling](https://ronynn.github.io/blog/writing/game%20development/2024/09/26/collaborative-storytelling-best-practices.html)
 <!-- BLOG-POST-LIST:END -->
