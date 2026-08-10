@@ -16,4 +16,4 @@ jobs:
             - name: Pull in blog posts
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
-                  feed_list: "https://ronynn.github.io/blog/feed"
+                  feed_list: "https://ronynn.github.io/blog/feed,https://dev.to/feed/ronynn,http://www.reddit.com/r/karuifoss/.rss"
