@@ -22,7 +22,9 @@ Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ronynn&l
 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How pomodoro changed my life](https://ronynn.github.io/blog/2025/11/05/how-pomodoro-changed-my-life.html)
-- [Organising life like I organise my bashrc file](https://ronynn.github.io/blog/2025/10/26/organising-life-like-the-terminal.html)
-- [Correlating drinking water to increase in productivity](https://ronynn.github.io/blog/2025/10/05/correlating-drinking-water-to-increased-productivity.html)
+- [This programming font made me fall in love with programming again](https://dev.to/ronynn/this-programming-font-made-me-fall-in-love-with-programming-again-p25)
+- [Sort lists alphabetically?](https://www.reddit.com/r/karuiFOSS/comments/1uzlf66/sort_lists_alphabetically/)
+- [Karui new release 1.6 improves edge to edge support for android, enables moving tabs left and right, fixes custom font selector](https://www.reddit.com/r/karuiFOSS/comments/1upeif3/karui_new_release_16_improves_edge_to_edge/)
+- [Can I install antigravity CLI on my phone?](https://dev.to/ronynn/can-i-install-antigravity-cli-on-my-phone-4k3p)
+- [👋 Welcome to r/karuiFOSS](https://www.reddit.com/r/karuiFOSS/comments/1u7b847/welcome_to_rkaruifoss/)
 <!-- BLOG-POST-LIST:END -->
