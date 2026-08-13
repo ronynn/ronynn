@@ -22,9 +22,9 @@ Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ronynn&l
 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Edited my github profile page! Take a look](https://www.reddit.com/r/karuiFOSS/comments/1vmaybl/edited_my_github_profile_page_take_a_look/)
 - [I want some font suggestions!](https://www.reddit.com/r/karuiFOSS/comments/1vlebhh/i_want_some_font_suggestions/)
 - [Which font?](https://www.reddit.com/r/karuiFOSS/comments/1vkq2oi/which_font/)
 - [Which font?](https://www.reddit.com/r/karuiFOSS/comments/1vkq2kg/which_font/)
 - [Karui++ new release 1.7](https://www.reddit.com/r/karuiFOSS/comments/1vkhf6y/karui_new_release_17/)
-- [This programming font made me fall in love with programming again](https://dev.to/ronynn/this-programming-font-made-me-fall-in-love-with-programming-again-p25)
 <!-- BLOG-POST-LIST:END -->
