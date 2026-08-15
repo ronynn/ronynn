@@ -22,9 +22,9 @@ Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ronynn&l
 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My dotfiles for setting up termux](https://www.reddit.com/r/karuiFOSS/comments/1vo4cm4/my_dotfiles_for_setting_up_termux/)
 - [I made an app that guides me on what to study next based on time of the day and my sleep metrics](https://www.reddit.com/r/karuiFOSS/comments/1vn7kal/i_made_an_app_that_guides_me_on_what_to_study/)
 - [Edited my github profile page! Take a look](https://www.reddit.com/r/karuiFOSS/comments/1vmaybl/edited_my_github_profile_page_take_a_look/)
 - [I want some font suggestions!](https://www.reddit.com/r/karuiFOSS/comments/1vlebhh/i_want_some_font_suggestions/)
 - [Which font?](https://www.reddit.com/r/karuiFOSS/comments/1vkq2oi/which_font/)
-- [Which font?](https://www.reddit.com/r/karuiFOSS/comments/1vkq2kg/which_font/)
 <!-- BLOG-POST-LIST:END -->
