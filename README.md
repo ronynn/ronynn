@@ -1,11 +1,13 @@
-You probably know me as the creator of Karui and LifeSim2k
-  
-- I am an archaeology student (lifelong learner), sizecoding and resource efficiency enthusiast.
+### Hi there !! 👋
+
+You probably know me as the creator of Karui and LifeSim2k. Here is a bit more [about me](https://ronynn.github.io/about).
+
 - I'm interested in building educational tools for low-bandwidth regions (offline-first bloatless interfaces). See my [tech stack](https://ronynn.github.io/tech-stack) for my opinionated collection.
 - I'd like to conduct and publish research on computational humanities with social simulation modelling.
 
 
-### My programming journey:-
+### 🍉 My programming journey:-
+
 - Around 2016 I saw an interactive fiction game which was very simple yet so funny, I wondered if I could make that too, learned twine, ink, inform6 (punyInform for a MSDOS game), and even made an interactive fiction game in TIC80 later with lua. I have since then been particpating in IFCOMP and SpringThing.
 - Further searches introduced me to the Sumerian Game, The Oregon Trail, and the role of games like Age of Empires in education, this aligned with my interests in modelling reality and historical communications.
 - Next learned to write php plugins for wordpress. But made some pages for an NGO so I believe that was useful. Moved my blog to jekyll later and homepage to Astro 7.
@@ -21,15 +23,18 @@ Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ronynn&l
 
 </div>
 
- 🌱 I’m currently practicing Project Euler problems. I need to improve my mathematical thinking.
+🌱 I’m currently practicing Project Euler problems. I need to improve my mathematical thinking.
 
-I am building a community around discussing simulation modelling, tech, programming, and sharing aesthetic interface designs.
+🥦 I am building a community around discussing simulation modelling, tech, programming, and sharing aesthetic interface designs.
 Show me your projects on our [telegram](https://t.me/karuiFOSS)  or on our [reddit](https://reddit.com/r/karuiFOSS)
 
-
+<div align="center">
+  
 ʕ •ᴥ•ʔ
+  
+</div>
 
-Latest Posts from my blog, dev.to/ronynn and r/karuiFOSS:-
+### 🫐 Latest Posts from my blog, dev.to/ronynn and r/karuiFOSS:-
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub - ronynn/svelte-apps: Making very simple apps in svelte to learn it better](https://www.reddit.com/r/karuiFOSS/comments/1w9pg05/github_ronynnsvelteapps_making_very_simple_apps/)
