@@ -37,9 +37,9 @@ Show me your projects on our [telegram](https://t.me/karuiFOSS)  or on our [redd
 ### 🫐 Latest Posts from my blog, dev.to/ronynn and r/karuiFOSS:-
 
 <!-- BLOG-POST-LIST:START -->
+- [What your app&#39;s text input bar tells about you?](https://dev.to/ronynn/what-your-apps-text-input-bar-tells-about-you-229m)
 - [GitHub - ronynn/svelte-apps: Making very simple apps in svelte to learn it better](https://www.reddit.com/r/karuiFOSS/comments/1w9pg05/github_ronynnsvelteapps_making_very_simple_apps/)
 - [GitHub - ronynn/graphics-experiments: Fiddling around with shaders and graphics libraries](https://www.reddit.com/r/karuiFOSS/comments/1w71kwa/github_ronynngraphicsexperiments_fiddling_around/)
 - [GitHub - ronynn/helper-of-humanity: TIC-80 GUI based parser game, for Game-Off 2023. Play the jam version using the link below.](https://www.reddit.com/r/karuiFOSS/comments/1w49186/github_ronynnhelperofhumanity_tic80_gui_based/)
 - [GitHub - ronynn/weather: A glassmorphism weather app using wttr api](https://www.reddit.com/r/karuiFOSS/comments/1w3au6n/github_ronynnweather_a_glassmorphism_weather_app/)
-- [GitHub - ronynn/potato-peace: Open source Javascript Visual Novel made with inkle.](https://www.reddit.com/r/karuiFOSS/comments/1w1jwmr/github_ronynnpotatopeace_open_source_javascript/)
 <!-- BLOG-POST-LIST:END -->
