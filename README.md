@@ -1,8 +1,8 @@
 ### Hi there !! 👋
 
-You probably know me as the creator of Karui and LifeSim2k. Here is a bit more [about me](https://ronynn.github.io/about).
+You probably know me as the creator of Karui and LifeSim2k. Here is a bit more [about me](https://ronynn.github.io/blog/about).
 
-- I'm interested in building educational tools for low-bandwidth regions (offline-first bloatless interfaces). See my [tech stack](https://ronynn.github.io/tech-stack) for my opinionated collection.
+- I'm interested in building educational tools for low-bandwidth regions (offline-first bloatless interfaces). See my [tech stack](https://ronynn.github.io/blog/tech-stack) for my opinionated collection.
 - I'd like to conduct and publish research on computational humanities with social simulation modelling.
 
 
