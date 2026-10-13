@@ -39,7 +39,7 @@ Show me your projects on our [telegram](https://t.me/karuiFOSS)  or on our [redd
 <!-- BLOG-POST-LIST:START -->
 - [I never wrote an intro post here on dev.to!](https://dev.to/ronynn/i-never-wrote-an-intro-post-here-on-devto-2119)
 - [What your app&#39;s text input bar tells about you?](https://dev.to/ronynn/what-your-apps-text-input-bar-tells-about-you-229m)
-- [GitHub - ronynn/svelte-apps: Making very simple apps in svelte to learn it better](https://www.reddit.com/r/karuiFOSS/comments/1w9pg05/github_ronynnsvelteapps_making_very_simple_apps/)
-- [GitHub - ronynn/graphics-experiments: Fiddling around with shaders and graphics libraries](https://www.reddit.com/r/karuiFOSS/comments/1w71kwa/github_ronynngraphicsexperiments_fiddling_around/)
-- [GitHub - ronynn/helper-of-humanity: TIC-80 GUI based parser game, for Game-Off 2023. Play the jam version using the link below.](https://www.reddit.com/r/karuiFOSS/comments/1w49186/github_ronynnhelperofhumanity_tic80_gui_based/)
+- [Organising life like I organise my bashrc file](https://ronynn.github.io/blog/organising-life-like-the-terminal/)
+- [This programming font made me fall in love with programming again](https://dev.to/ronynn/this-programming-font-made-me-fall-in-love-with-programming-again-p25)
+- [Correlating drinking water to increase in productivity](https://ronynn.github.io/blog/correlating-drinking-water-to-increased-productivity/)
 <!-- BLOG-POST-LIST:END -->
